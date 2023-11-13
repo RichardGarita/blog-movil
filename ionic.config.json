@@ -1,0 +1,7 @@
+{
+  "name": "blog-movil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
